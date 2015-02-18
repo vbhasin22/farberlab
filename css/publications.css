@@ -1,0 +1,25 @@
+p.text-muted{
+	text-align: center;
+}
+.header{
+	text-align: center;
+}
+.mdi-file-file-download{
+    position: absolute;
+}
+.pager{
+	text-align: center;
+}
+.pagewrapper{
+	 width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.navbar-fixed-top{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+a.link{
+	text-decoration: none;
+}

@@ -1,0 +1,36 @@
+.jumbotron {
+	background-image: url("http://www.womenshealthmag.com/files/wh6_uploads/images/1310-cancer-genetics-art.jpg");
+}
+.twitter-timeline{
+	text-align: center;
+}
+.navbar-fixed-top{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.pagewrapper{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.imgs {
+	text-align: right;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+p.desc {
+	text-align: center;
+}
+/*
+h3 {
+	text-align: center;
+}
+*/
+p.text-muted{
+	text-align: left;
+}

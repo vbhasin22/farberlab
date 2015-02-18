@@ -1,0 +1,13 @@
+.pagewrapper{
+	 width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+}
+p.text-muted{
+	text-align: center;
+}
+.navbar-fixed-top{
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+}	
