@@ -1,6 +1,3 @@
-p.text-muted{
-	text-align: center;
-}
 .pagewrapper{
 	 width: 1200px;
 	margin-left: auto;
@@ -10,4 +7,13 @@ p.text-muted{
 	width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
+}
+p.text-muted{
+	text-align: left;
+}
+.imgs {
+	text-align: right;
+}
+h2.text-muted{
+	text-align: center;
 }

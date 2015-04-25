@@ -4,10 +4,13 @@
 	margin-right: auto;
 }
 p.text-muted{
-	text-align: center;
+	text-align: left;
 }
 .navbar-fixed-top{
 	width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
 }	
+.imgs{
+	text-align: right;
+}

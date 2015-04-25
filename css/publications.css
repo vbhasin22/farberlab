@@ -1,5 +1,5 @@
 p.text-muted{
-	text-align: center;
+	text-align: left;
 }
 .header{
 	text-align: center;
@@ -22,4 +22,13 @@ p.text-muted{
 }
 a.link{
 	text-decoration: none;
+}
+.imgs{
+	text-align: right;
+}
+h3.header{
+	text-align: left;
+}
+ul.pub_list{
+    list-style-type: none;
 }

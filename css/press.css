@@ -9,5 +9,8 @@
 	margin-right: auto;
 }
 p.text-muted{
-	text-align: center;
+	text-align: left;
+}
+.imgs{
+	text-align: right;
 }

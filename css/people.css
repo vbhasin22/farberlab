@@ -23,5 +23,8 @@ p.bio{
 	text-align: center;
 }
 p.text-muted{
-	text-align: center;
+	text-align: left;
+}
+.imgs {
+	text-align: right;
 }
